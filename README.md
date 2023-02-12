@@ -2,7 +2,9 @@
 # Personal Website
 
 Personal Website created using basic HTML and CSS for CISC 375 - Web Development class
+
 Link to see the live site: https://sunishaarora.github.io/
+
 Link to see YouTube video demonstration of the site: https://youtu.be/1IXQnrKRBn8
 
 # What I Learned
